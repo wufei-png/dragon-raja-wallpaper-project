@@ -1,0 +1,25 @@
+project:
+  name: dragon-raja-inspired-ai-wallpapers
+  status: draft
+  language: zh-CN
+  purpose: 非官方同人视觉策划与提示词工程
+  default_aspect_ratios:
+    desktop: "16:9"
+    ultrawide: "21:9"
+    mobile: "9:16"
+  default_output_quality:
+    target: 高清壁纸 / 海报级
+    avoid:
+      - 低清
+      - 文字乱码
+      - 游戏 UI
+      - 官方 Logo
+      - 角色脸崩
+      - 普通西幻龙
+  canon_policy:
+    use_paraphrase_only: true
+    no_long_original_quotes: true
+    no_official_asset_recreation: true
+  publishing_policy:
+    label_as_ai_fan_art: true
+    commercial_use: avoid
