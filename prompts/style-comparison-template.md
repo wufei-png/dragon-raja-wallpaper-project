@@ -19,10 +19,12 @@ base_content_lock:
 5. 人物比例：
 6. 主要色彩：
 
+风格只允许改变：线条、材质、光影、细节密度、渲染方式。不得改变核心事件、人物关系、地点或龙/超自然存在方式。
+
 ## 风格 A：doodle-sketch
 
 ```text
-
+Use the same locked scene content above, rendered as a serious minimalist hand-drawn doodle: thick messy black lines, white background, sparse color accents, clear silhouettes, no text, no speech bubble, no parody.
 ```
 
 ## 风格 B：anime-cel

@@ -19,3 +19,6 @@ __pycache__/
 
 # Local notes
 .local/
+
+# Local full-text references
+references/龙族.txt
