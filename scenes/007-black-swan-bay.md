@@ -76,11 +76,10 @@ Same scene content as above, serious minimalist hand-drawn doodle of Black Swan 
 ## 第一轮实验
 
 - doodle-sketch:
-- anime-cel:
-- anime-film:
-- dark-urban-fantasy:
+- donghua-key-visual:
 - epic-concept-art:
-- game-cg-key-visual:
+- book-cover-illustration:
+- manga-panel:
 
 ## 生成记录
 

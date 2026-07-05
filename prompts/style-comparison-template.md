@@ -27,34 +27,40 @@ base_content_lock:
 Use the same locked scene content above, rendered as a serious minimalist hand-drawn doodle: thick messy black lines, white background, sparse color accents, clear silhouettes, no text, no speech bubble, no parody.
 ```
 
-## 风格 B：anime-cel
+## 风格 B：donghua-key-visual
 
 ```text
-
+Use the same locked scene content above, rendered as a donghua promotional key visual: semi-realistic anime digital painting, dramatic wide-angle perspective, modern-world scale anchor where applicable, tiny human silhouette for scale, colossal dragon shadow or supernatural anomaly integrated with the environment, polished commercial key art, no logo, no title text, no copied official artwork.
 ```
 
-## 风格 C：anime-film
+## 风格 C：epic-concept-art
 
 ```text
-
+Use the same locked scene content above, rendered as epic cinematic concept art: ultra-wide establishing shot, immense scale, tiny human silhouettes, ancient dragon civilization, high-detail environment design, dramatic composition, volumetric lighting, atmospheric depth, awe and dread.
 ```
 
-## 风格 D：dark-urban-fantasy
+## 风格 D：book-cover-illustration
 
 ```text
-
+Use the same locked scene content above, rendered as a refined fantasy book-cover illustration: symbolic composition, elegant negative space, central visual metaphor, restrained color palette, mysterious atmosphere, no typography, no title text.
 ```
 
-## 风格 E：epic-concept-art
+## 风格 E：ink-mythic
 
 ```text
-
+Use the same locked scene content above, rendered as Chinese ink wash mythic fantasy: flowing ink, mist or water currents, ancient bronze or mythic structures where applicable, vast negative space, subtle gold accents, elegant and ominous, no xianxia romance.
 ```
 
-## 风格 F：game-cg-key-visual
+## 风格 F：manga-panel
 
 ```text
+Use the same locked scene content above, rendered as a single black and white manga panel: high contrast ink, dramatic shadows, rough ink texture, cinematic panel composition, no color, no speech bubbles, no captions, no sound effect letters.
+```
 
+## 场景限定风格：dark-urban-fantasy
+
+```text
+Only use this for modern city / subway / highway / Tokyo / Odin Nibelungen scenes. Render the same locked scene content as dark urban fantasy: grounded realism, rain-soaked city materials, neon or streetlight reflections, supernatural anomaly invading reality, ominous atmosphere, massive unseen presence, no medieval fantasy and no cyberpunk UI overload.
 ```
 
 ## 对比结论
@@ -62,8 +68,9 @@ Use the same locked scene content above, rendered as a serious minimalist hand-d
 | style_id | 内容一致性 | 冲击感 | 美观 | 壁纸适配 | 备注 |
 |---|---:|---:|---:|---:|---|
 | doodle-sketch |  |  |  |  |  |
-| anime-cel |  |  |  |  |  |
-| anime-film |  |  |  |  |  |
-| dark-urban-fantasy |  |  |  |  |  |
+| donghua-key-visual |  |  |  |  |  |
 | epic-concept-art |  |  |  |  |  |
-| game-cg-key-visual |  |  |  |  |  |
+| book-cover-illustration |  |  |  |  |  |
+| ink-mythic |  |  |  |  |  |
+| manga-panel |  |  |  |  |  |
+| dark-urban-fantasy |  |  |  |  |  |

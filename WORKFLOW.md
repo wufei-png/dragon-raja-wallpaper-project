@@ -25,12 +25,12 @@
 同一场景至少生成 5 种风格：
 
 1. doodle-sketch
-2. anime-cel
-3. anime-film
-4. dark-urban-fantasy
-5. epic-concept-art
-6. game-cg-key-visual，可选
-7. book-cover-illustration，可选
+2. donghua-key-visual
+3. epic-concept-art
+4. book-cover-illustration
+5. ink-mythic
+6. manga-panel，可选
+7. dark-urban-fantasy，仅限现代城市 / 地铁 / 高架 / 东京 / 奥丁尼伯龙根场景
 
 对比维度：
 - 内容是否一致
@@ -44,3 +44,4 @@
 - 每个风格共用同一份 `base_content_lock`。
 - 风格只改变线条、材质、光影、细节密度和渲染方式。
 - 不允许在 doodle-sketch 里改成对话框、文字牌或无关小剧场。
+- 不允许在不适合的场景强行套用 dark-urban-fantasy；水下、深海、极地、古文明遗迹优先使用 epic / donghua / book-cover / ink。
