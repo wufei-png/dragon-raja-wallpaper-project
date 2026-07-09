@@ -4,6 +4,7 @@
 # Upscale tooling binaries (download locally)
 *.zip
 *.bin
+upscale/realesrgan-ncnn-vulkan-v0.2.0-macos/
 
 # Python
 __pycache__/
