@@ -1,6 +1,10 @@
 # OS
 .DS_Store
 
+# Upscale tooling binaries (download locally)
+*.zip
+*.bin
+
 # Python
 __pycache__/
 *.pyc
