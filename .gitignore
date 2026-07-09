@@ -1,18 +1,6 @@
 # OS
 .DS_Store
 
-# Large image outputs
-outputs/**/*.png
-outputs/**/*.jpg
-outputs/**/*.jpeg
-outputs/**/*.webp
-outputs/**/*.psd
-outputs/**/*.tif
-outputs/**/*.tiff
-
-# Keep markdown logs
-!outputs/**/*.md
-
 # Python
 __pycache__/
 *.pyc
